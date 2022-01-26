@@ -12,7 +12,8 @@
   com.libproxy.uoregon.edu/gigascience/article/10/2/giab008/6137722).
 7. T. Yang, F. Zhang, G. G. Yardımcı, F. Song, R. C. Hardison, W. S. Noble, F. Yue, Q. Li, HiCRep: assessing the reproducibility of Hi-C data using a stratum-
   adjusted correlation coefficient. Genome Res. 27, 1939–1949 (2017).
-8. R Core Team (2021). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.
+8. R Core Team (2021). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-
+  project.org/.
 9. F. Ramírez, D. P. Ryan, B. Grüning, V. Bhardwaj, F. Kilpert, A. S. Richter, S. Heyne, F. Dündar, T. Manke, deepTools2: a next generation web server for deep-
   sequencing data analysis. Nucleic Acids Research. 44, W160–W165 (2016).
 10. J. Wolff, L. Rabbani, R. Gilsbach, G. Richard, T. Manke, R. Backofen, B. A. Grüning, Galaxy HiCExplorer 3: a web server for reproducible Hi-C, capture Hi-C and 
